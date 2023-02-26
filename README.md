@@ -6,6 +6,8 @@ A simple demo on Microfrontend with Module Federation in React
 
 ## Introduction
 
+I have a detailed tutorial on: https://medium.com/@samho1996/microfrontend-with-module-federation-in-react-98b72b347238
+
 ## Getting started
 
 In the project directory, run:
