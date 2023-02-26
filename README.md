@@ -2,6 +2,8 @@
 
 A simple demo on Microfrontend with Module Federation in React
 
+<img src="https://user-images.githubusercontent.com/19681625/221417269-59fb9cb9-2d8a-4e05-8a54-562679aec22b.png" width="500" />
+
 ## Introduction
 
 ## Getting started
