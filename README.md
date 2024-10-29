@@ -1,4 +1,4 @@
-# Module Federation Demo
+# Module Federation Demo (React)
 
 A simple demo on Microfrontend with Module Federation in React
 
